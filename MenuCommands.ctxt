@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuCommands
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MenuCommands\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=idx\ w
+comment1.target=void\ execute(int,\ greenfoot.World)
+comment1.text=\r\n\ execute\ is\ in\ place\ to\ allow\ FileCommands\ class\ to\ interface\ with\ MenuCommands\ class\r\n\ \r\n\ @param\ int\ idx\ is\ a\ variable\ that\ controls\ which\ message\ is\ called\ in\ the\ Greenfoot\r\n\ console.\r\n\ @param\ World\ w\ is\ a\ reference\ to\ the\ world\ that\ allows\ this\ program\ to\ run\ methods\ \r\n\ contained\ in\ that\ World\ class.\r\n
+numComments=2

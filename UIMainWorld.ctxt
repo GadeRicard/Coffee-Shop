@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UIMainWorld
+comment0.text=\r\n\ A\ GUI\ that\ adds\ up\ sales\ of\ different\ coffee\ shop\ items\r\n\ \r\n\ Author\:\ Gade\ Ricard\r\n\ Teacher\:\ Mr.Hardman\r\n\ Assignment\:\ \#7\ Encapsulation,\ Inheritance,\ Polymorphism\r\n\ Date\ Last\ Modified\:\ May\ 31th\r\n
+comment1.params=
+comment1.target=UIMainWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UIMainWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ startScreen()
+comment2.text=\r\n\ startScreen\ creates\ the\ start\ screen\ containing\ the\ file\ menu\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ salesScreen()
+comment3.text=\r\n\ salesScreen\ creates\ the\ sales\ screen\ which\ contains\ the\ buttons\ to\ control\r\n\ the\ calculations\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ thankYou()
+comment4.text=\r\n\ thankYou\ creates\ the\ thank\ you\ screen\ which\ displays\ a\ message\ of\ thanks,\r\n\ and\ stops\ the\ program\r\n
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ calculateSale()
+comment6.text=\r\n\ calculateSale\ calculates\ how\ many\ items\ are\ sold,\ and\ displays\ the\ amounts\ in\r\n\ text\ on\ the\ screen\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment7.params=s
+comment7.target=void\ addItem(SalesItem)
+comment7.text=\r\n\ addItem\ is\ a\ setter\ that\ fills\ out\ the\ salesItems\ array\ with\ the\ correct\r\n\ SalesItem\ object\r\n\ \r\n\ @param\ SalesItem\ s\ is\ the\ variable\ that\ controls\ which\ SalesItem\ object\ is\ added\ to\ the\ \r\n\ salesItem\ array\r\n\ @return\ Nothing\ is\ returned\r\n
+comment8.params=
+comment8.target=void\ clearScreen()
+comment8.text=\r\n\ clearScreen\ removes\ all\ objects\ except\ the\ menu\ object\ from\ the\ world\ when\ called\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=9

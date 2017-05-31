@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TextBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TextBox\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=message\ fs\ b\ fg\ bg
+comment1.target=TextBox(java.lang.String,\ int,\ boolean,\ java.awt.Color,\ java.awt.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ the\ TextBox\ class.\r\n\ \r\n\ @param\ String\ message\ is\ what\ should\ be\ displayed\ as\ text\ in\ the\ TextBox.\r\n\ @param\ int\ fs\ is\ the\ value\ that\ fontSize\ should\ be\ changed\ to\r\n\ @param\ boolean\ b\ is\ the\ variable\ that\ border\ should\ be\ set\ to.\r\n\ @param\ Color\ fg\ is\ the\ Color\ variable\ that\ foreground\ should\ be\ set\ to.\r\n\ @param\ Color\ bg\ is\ the\ Color\ variable\ that\ background\ should\ be\ set\ to.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TextBox\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=message
+comment3.target=void\ setText(java.lang.String)
+comment3.text=\r\n\ setText\ controls\ the\ text\ contents\ that\ will\ be\ added\ to\ the\ TextBox\ object\r\n\ \r\n\ @param\ String\ message\ is\ a\ variable\ that\ contains\ the\ specific\ message\r\n\ to\ be\ added.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=void\ display()
+comment4.text=\r\n\ display\ controls\ the\ creation\ of\ the\ TextBox\ object's\ image\ to\ be\ displayed\r\n\ \r\n\ @param\ There\ are\ no\ parameters.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SalesItem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SalesItem\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SalesItem()
+comment1.text=\r\n\ This\ is\ the\ default\ contructor\ for\ objects\ of\ the\ SalesItem\ class.\r\n
+comment2.params=sp
+comment2.target=SalesItem(java.lang.Double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ the\ SalesItem\ class.\r\n\ \r\n\ @param\r\n
+comment3.params=
+comment3.target=int\ getNumOfItem()
+comment3.text=\r\n\ getNumOfItem\ is\ a\ getter\ method\ that\ returns\ the\ variable\ numOfItem\ \r\n\ when\ called.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ returns\ the\ variable\ numOfItem.\r\n
+comment4.params=
+comment4.target=double\ getFinalPrice()
+comment4.text=\r\n\ getFinalPrice\ is\ a\ getter\ that\ returns\ the\ final\ sales\ price\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Returns\ the\ salesPrice\ variable\ multiplied\ by\ 1.13\r\n
+comment5.params=p
+comment5.target=void\ setPrice(double)
+comment5.text=\r\n\ setPrice\ is\ a\ protected\ setter\ that\ sets\ salesPrice\ to\ the\ parameter\ when\ called\r\n\ \r\n\ @param\ double\ P\ is\ the\ variable\ that\ salesPrice\ should\ be\ set\ to.\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=n
+comment6.target=void\ setNumber(int)
+comment6.text=\r\n\ setNumber\ is\ a\ protected\ setter\ that\ sets\ numOfItem\ to\ the\ parameter\ when\ called.\r\n\ \r\n\ @param\ int\ n\ is\ the\ variable\ that\ numOfItem\ should\ be\ set\ to.\r\n\ @return\ Nothing\ is\ returned.\r\n
+numComments=7

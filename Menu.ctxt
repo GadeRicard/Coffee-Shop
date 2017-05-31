@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Menu()
+comment1.text=\r\n\ This\ is\ the\ default\ constructor\ for\ objects\ of\ the\ Menu\ class.\r\n
+comment2.params=tb\ items\ fs\ fgMain\ bgMain\ fgSecond\ bgSecond\ mc
+comment2.target=Menu(java.lang.String,\ java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ java.awt.Color,\ MenuCommands)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ the\ Menu\ class.\r\n\ \r\n\ @param\ String\ tb\ is\ the\ message\ that\ will\ be\ displayed\ in\ text\ in\ the\ titleBar\ object.\r\n\ @param\ String\ items\ is\ the\ message\ that\ will\ be\ displayed\ in\ text\ in\ the\ menuItems\ object.\r\n\ @param\ int\ fs\ is\ the\ variable\ that\ fontSize\ will\ be\ changed\ to.\r\n\ @param\ Color\ fgMain\ is\ the\ Color\ variable\ that\ mainFG\ will\ be\ set\ to.\r\n\ @param\ Color\ bgMain\ is\ the\ Color\ variable\ that\ mainBG\ will\ be\ set\ to.\r\n\ @param\ Color\ fgSecond\ is\ the\ Color\ variable\ that\ secondFG\ will\ be\ set\ to.\r\n\ @param\ Color\ bgSecond\ is\ the\ Color\ variable\ that\ secondBG\ will\ be\ set\ to.\r\n\ @param\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ addToWorld\ controls\ the\ creation\ and\ placement\ of\ the\ menu\ object,\ and\r\n\ the\ related\ values\r\n\ \r\n\ @param\ World\ w\ is\ a\ variable\ that\ defines\ which\ World\ the\ menu\ Object\ is\r\n\ added\ to.\r\n\ @return\ Nothing\ is\ returned.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Menu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=void\ handleMouse()
+comment5.text=\r\n\ handleMouse\ gets\ info\ about\ what\ the\ mouse\ input\ is\ doing\ to\ the\ menu\ objects,\r\n\ and\ controls\ the\ adding\ and\ removing\ of\ the\ menu\ contents\ from\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6
